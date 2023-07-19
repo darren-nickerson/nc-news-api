@@ -5,9 +5,7 @@
 The creation of an `API` to mimic a real world backend service which will provide the information to front end architecture. The `API` uses `PSQL Database` and `node-postgres`.
 <hr>
 
-## Live Hosted Version of API
-Hosted version of API: <https://nc-be-news-api.herokuapp.com/api>
-<hr>
+
 
 ## Pre setup
 
