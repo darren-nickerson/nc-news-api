@@ -8,6 +8,8 @@ The creation of an `API` to mimic a real world backend service which will provid
 <hr>
 
 
+Live Demo: [News API](https://ncnews-5bmi.onrender.com/api)
+
 
 ## Pre setup
 
