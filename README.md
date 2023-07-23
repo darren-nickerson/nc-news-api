@@ -1,4 +1,6 @@
-# Example of News API
+# News API
+![alt text](https://nickerson.io/assets/maxresdefault8-3edd2662.png)
+
 
 ## Background
 
@@ -21,17 +23,17 @@ Update to the latest version of node.js and postgres if you have problems runnin
 
 HTTPS
 ```
-https://github.com/milcroft/example-news-api.git
+https://github.com/darren-nickerson/example-news-api.git
 ```
 
 SSH
 ```
-git@github.com:milcroft/example-news-api.git
+git@github.com:darren-nickerson/example-news-api.git
 ```
 
 GitHub CLI
 ```
-gh repo clone milcroft/example-news-api
+gh repo clone darren-nickerson/example-news-api
 ```
 
 ###  2. install npm packages
