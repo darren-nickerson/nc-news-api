@@ -1,5 +1,5 @@
 # News API
-![alt text](https://nickerson.io/assets/maxresdefault7-28f91b44.png)
+![alt text](https://nickerson.io/assets/maxresdefault8-3edd2662.png)
 
 
 ## Background
